@@ -30,3 +30,7 @@ The CSV is not included in this repository. Download it and place `IMDB Dataset.
 ```
 python movie_reviews.py
 ```
+
+## AI Assistance Disclosure
+
+AI-assisted tooling was used during development in the form of code suggestions (autocomplete). All suggestions were reviewed and verified by me, and I typed in every transformation required for this project myself. The logic, structure, and final code are my own responsibility.
